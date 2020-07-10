@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project123-new branch--change
+Simple Maven Project123-new branch--changed
